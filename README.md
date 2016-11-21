@@ -1,3 +1,7 @@
+#ejs安装 （ejs本事nodejs的一个模板，但是下载ejs.js包 ,也可以运行在浏览器上）
+
+npm install ejs
+
 # 调用  ejs.render(str, options); 第一个参数是 模板 的字符串，模板如下：
 
 	<% if (names.length) { %>  
